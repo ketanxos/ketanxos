@@ -2,6 +2,8 @@
 
 <p align="center">A passionate Web and Android Developer from India</p>
 
+<p align="center"><a href="https://www.instagram.com/ketanxos/"><img src="img/instagram.svg" alt="Instagram" width="32px"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linked.com/in/ketanxos/"><img src="img/linkedin.svg" alt="LinkedIN" width="32px"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.x.com/ketanxos/"><img src="img/x.svg" alt="X" width="32px"/></a></p>
+
 <!-- &#128301; I'm currently working on -->
 
 &#127793; I'm learning Android Studio and Flutter
