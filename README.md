@@ -11,10 +11,10 @@
 </p>
 
 <!-- p>&#128301; I'm currently working on </p -->
-<p>&#127793; I'm currently learning Android Studio and Flutter</p>
-<p>&#128108; I'm looking to collaborate on Android Projects</p>
+<p>&#127793; I'm currently learning <b>Android Studio</b> and <b>Flutter</b></p>
+<p>&#128108; I'm looking to collaborate on <b>Android Projects</b></p>
 <!-- p>&#129309; I'm looking for help with </p -->
-<p>&#128193; All of my projects are available <a href="https://ketanxos.github.io">here</a></p>
+<p>&#128193; All of my projects are available <code><a href="https://ketanxos.github.io">here</a></code></p>
 <p>&#128235; Reach me here: <a href="mailto:ketan.kumar08032002@gmail.com">ketan.kumar08032002@gmail.com</a></p>
 
 <br/>
