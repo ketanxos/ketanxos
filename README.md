@@ -7,7 +7,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linked.com/in/ketanxos/"><img alt="LinkedIN" src="img/linkedin.svg" height="32px"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.x.com/ketanxos/"><img alt="X" src="img/x.sg" height="32px"/></a>
+  <a href="https://www.x.com/ketanxos/"><img alt="X" src="img/x.svg" height="32px"/></a>
 </p>
 
 <!-- p>&#128301; I'm currently working on </p -->
