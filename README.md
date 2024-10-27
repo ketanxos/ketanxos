@@ -3,11 +3,11 @@
 <h3 align="center">A passionate Web and Android Developer from India</h3>
 
 <p align="center">
-  <a href="https://www.instagram.com/ketanxos/"><img alt="Instagram" src="img/instagram.svg" height="32px"/></a>
+  <a href="https://www.instagram.com/ketanxos/"><img alt="Instagram" height="32px" src="img/instagram.svg"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linked.com/in/ketanxos/"><img alt="LinkedIN" src="img/linkedin.svg" height="32px"/></a>
+  <a href="https://www.linked.com/in/ketanxos/"><img alt="LinkedIN" height="32px" src="img/linkedin.svg"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.x.com/ketanxos/"><img alt="X" src="img/x.svg" height="32px"/></a>
+  <a href="https://www.x.com/ketanxos/"><img alt="X" height="32px" src="img/x.svg"/></a>
 </p>
 
 <!-- p>&#128301; I'm currently working on </p -->
@@ -19,49 +19,49 @@
 
 <br/>
 
-<!-- h2>WEB DEVELOPEMENT</h2>
+<h2>WEB DEVELOPEMENT</h2>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="HTML" src="img/html.svg" height="36px"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="CSS" src="img/css.svg" height="36px"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Javascript" src="img/javascript.svg" height="36px"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Node.js" src="img/nodejs.svg" height="36px"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="ReactJS" src="img/reactjs.svg" height="36px"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="ExpressJS" src="img/expressjs.svg" height="36px"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="AngularJS" src="img/angularjs.svg" height="36px"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="jQuery" src="img/jquery.svg" height="36px"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="MongoDB" src="img/mongodb.svg" height="36px"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="PHP" src="img/php.svg" height="36px"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Bootstrap" src="img/bootstrap.svg" height="36px"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Tailwind" src="img/tailwind.svg" height="36px"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="WordPress" src="img/wordpress.svg" height="36px"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="HTML" height="36px" src="img/html.svg"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="CSS" height="36px" src="img/css.svg"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Javascript" height="36px" src="img/javascript.svg"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Node.js" height="36px" src="img/nodejs.svg"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="ReactJS" height="36px" src="img/reactjs.svg"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="ExpressJS" height="36px" src="img/expressjs.svg"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="AngularJS" height="36px" src="img/angularjs.svg"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="jQuery" height="36px" src="img/jquery.svg"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="MongoDB" height="36px" src="img/mongodb.svg"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="PHP" height="36px" src="img/php.svg"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Bootstrap" height="36px" src="img/bootstrap.svg"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Tailwind" height="36px" src="img/tailwind.svg"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="WordPress" height="36px" src="img/wordpress.svg"/>
 
 <br/>
 
 <h2>ANDROID DEVELOPEMENT</h2>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Android Studio" src="img/android-studio.svg" height="36px"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Flutter" src="img/flutter.svg" height="36px"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Android Studio" height="36px" src="img/android-studio.svg"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Flutter" height="36px" src="img/flutter.svg"/>
 
 <br/>
 
 <h2>LANGUAGES</h2>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="C" src=""/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="C++" src=""/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="CSharp" src=""/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Java" src=""/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Kotlin" src=""/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Python" src=""/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Swift" src=""/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Ruby" src=""/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="C" height="36px" src="img/c.svg"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="C++" height="36px" src="img/c++.svg"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="CSharp" height="36px" src="img/csharp"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Java" height="36px" src="img/java.svg"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Kotlin" height="36px" src="img/kotlin.svg"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Python" height="36px" src="img/python.svg"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Swift" height="36px" src="img/swift.svg"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Ruby" height="36px" src="img/ruby.svg"/>
 
 <br/>
 
-<h2>SOCIAL MEDIA</h2>
+<!--h2>SOCIAL MEDIA</h2>
 
 
 
 <br/>
 
-<h2>DEV PROFILES</h2 -->
+<h2>DEV PROFILES</h2-->
 
