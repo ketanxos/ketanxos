@@ -10,16 +10,16 @@
   <a href="https://www.x.com/ketanxos/"><img alt="X" src="img/x.svg" height="32px"/></a>
 </p>
 
-<!-- &#128301; I'm currently working on -->
+<!-- p>&#128301; I'm currently working on </p -->
 <p>&#127793; I'm currently learning Android Studio and Flutter</p>
 <p>&#128108; I'm looking to collaborate on Android Projects</p>
-<!-- &#129309; I'm looking for help with -->
+<!-- p>&#129309; I'm looking for help with </p -->
 <p>&#128193; All of my projects are available <a href="https://ketanxos.github.io">here</a></p>
 <p>&#128235; Reach me here: <a href="mailto:ketan.kumar08032002@gmail.com">ketan.kumar08032002@gmail.com</a></p>
 
 <br/>
 
-<h2>WEB DEVELOPEMENT</h2>
+<!-- h2>WEB DEVELOPEMENT</h2>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="HTML" src="img/html.svg" height="36px"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="CSS" src="img/css.svg" height="36px"/>
@@ -63,5 +63,5 @@
 
 <br/>
 
-<h2>DEV PROFILES</h2>
+<h2>DEV PROFILES</h2 -->
 
