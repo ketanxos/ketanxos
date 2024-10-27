@@ -6,7 +6,7 @@
 
 <!-- &#128301; I'm currently working on -->
 
-&#127793; I'm learning <img alt="Android Studio" src="img/android-studio.svg" height="32px"/> and <img alt="Flutter" src="img/flutter.svg" height="32px"/>
+&#127793; I'm currently learning Android Studio and Flutter.
 
 &#128108; I'm looking to collaborate on Android Projects
 
