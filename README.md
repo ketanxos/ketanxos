@@ -1,6 +1,6 @@
 <h1 align="center">Hii, I'm Ketan... &#128104;&#8205;&#128187;</h1>
 
-<h4 align="center">A passionate Web and Android Developer from India</h4>
+<h3 align="center">A passionate Web and Android Developer from India</h3>
 
 <p align="center">
   <a href="https://www.instagram.com/ketanxos/"><img alt="Instagram" src="img/instagram.svg" height="32px"/></a>
