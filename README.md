@@ -10,10 +10,10 @@
   <a href="https://www.x.com/ketanxos/"><img alt="X" height="32px" src="img/x.svg"/></a>
 </p>
 
-<!-- p>&#128301; I'm currently working on </p -->
+<p>&#128301; I'm currently working on 'NOWHERE'</p>
 <p>&#127793; I'm currently learning <b>Android Studio</b> and <b>Flutter</b></p>
 <p>&#128108; I'm looking to collaborate on <b>Android Projects</b></p>
-<!-- p>&#129309; I'm looking for help with </p -->
+<p>&#129309; I'm looking for help with 'NOTHING'</p>
 <p>&#128193; All of my projects are available <code><a href="https://ketanxos.github.io">here</a></code></p>
 <p>&#128235; Reach me here: <a href="mailto:ketan.kumar08032002@gmail.com">ketan.kumar08032002@gmail.com</a></p>
 
@@ -46,20 +46,27 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="C" height="36px" src="img/c.svg"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="C++" height="36px" src="img/c++.svg"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="CSharp" height="36px" src="img/csharp.svg"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Java" height="36px" src="img/java.svg"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Kotlin" height="36px" src="img/kotlin.svg"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Python" height="36px" src="img/python.svg"/>
-<!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Swift" height="36px" src="img/swift.svg"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Swift" height="36px" src="img/swift.svg"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Ruby" height="36px" src="img/ruby.svg"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="CSharp" height="36px" src="img/csharp.svg"/>-->
 
 <br/>
 
-<!--h2>SOCIAL MEDIA</h2>
+<h2>OTHER DEV PROFILES</h2>
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.leetcode.com/ketanxos">LeetCode</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.leetcode.com/ketanxos">CodeChef</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.leetcode.com/ketanxos">HackerEarth</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.hackerrank.com/ketanxos">HackerRank</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://profile.codersrank.io/user/ketanxos">CodersRank</a>
+<br/><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://coderbyte.com/profile/ketanxos">coderbyte</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://codeforces.com/profile/ketanxos">CodeForces</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.codecademy.com/profiles/ketanxos">Codecademy</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.freecodecamp.org/ketanxos">freeCodeCamp</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://g.dev/ketanxos">Google Developers</a>
 
-
-<br/>
-
-<h2>DEV PROFILES</h2-->
 
