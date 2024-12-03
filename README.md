@@ -3,11 +3,11 @@
 <h3 align="center">A passionate Web and Android Developer from India</h3>
 
 <p align="center">
-  <a target="_blank" href="https://www.instagram.com/ketanxos/"><img alt="Instagram" height="32px" src="img/instagram.svg"/></a>
+  <a href="https://www.instagram.com/ketanxos/"><img alt="Instagram" height="32px" src="img/instagram.svg"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank" href="https://www.linked.com/in/ketanxos/"><img alt="LinkedIN" height="32px" src="img/linkedin.svg"/></a>
+  <a href="https://www.linked.com/in/ketanxos/"><img alt="LinkedIN" height="32px" src="img/linkedin.svg"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank" href="https://www.x.com/ketanxos/"><img alt="X" height="32px" src="img/x.svg"/></a>
+  <a href="https://www.x.com/ketanxos/"><img alt="X" height="32px" src="img/x.svg"/></a>
 </p>
 
 <p>&#128301; I'm currently working on <b>'NOWHERE'</b></p>
@@ -59,9 +59,9 @@
 
 <h2>OTHER DEV PROFILES</h2>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://www.leetcode.com/ketanxos">LeetCode</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://www.leetcode.com/ketanxos">CodeChef</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://www.leetcode.com/ketanxos">HackerEarth</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://www.hackerrank.com/ketanxos">HackerRank</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://profile.codersrank.io/user/ketanxos">CodersRank</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://coderbyte.com/profile/ketanxos">Coderbyte</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.leetcode.com/ketanxos">LeetCode</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.leetcode.com/ketanxos">CodeChef</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.leetcode.com/ketanxos">HackerEarth</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.hackerrank.com/ketanxos">HackerRank</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://profile.codersrank.io/user/ketanxos">CodersRank</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://coderbyte.com/profile/ketanxos">Coderbyte</a>
