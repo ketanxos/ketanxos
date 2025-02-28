@@ -1,3 +1,4 @@
+<img src="img/bg.png"/>
 <h1 align="center">Hii, I'm Ketan... &#128104;&#8205;&#128187;</h1>
 
 <h3 align="center">A passionate Web and Android Developer from India</h3>
