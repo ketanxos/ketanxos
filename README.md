@@ -59,9 +59,10 @@
 
 <h2>OTHER DEV PROFILES</h2>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.leetcode.com/ketanxos">LeetCode</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.leetcode.com/ketanxos">CodeChef</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.leetcode.com/ketanxos">HackerEarth</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.hackerrank.com/ketanxos">HackerRank</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://profile.codersrank.io/user/ketanxos">CodersRank</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://coderbyte.com/profile/ketanxos">Coderbyte</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.leetcode.com/ketanxos"><img src="https://img.shields.io/badge/LeetCode-0D1117?logo=leetcode"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.codechef.com/users/ketanxos"><img src="https://img.shields.io/badge/CodeChef-0D1117?logo=codechef"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.hackerearth.com/@ketanxos"><img src="https://img.shields.io/badge/HackerEarth-0D1117?logo=hackerearth"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.hackerrank.com/ketanxos"><img src="https://img.shields.io/badge/HackerRank-0D1117?logo=hackerrank"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://profile.codersrank.io/user/ketanxos"><img src="https://img.shields.io/badge/CodersRank-0D1117?logo=codersrank"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.coderbyte.com/profile/ketanxos"><img src="https://img.shields.io/badge/Coderbyte-0D1117?logo=coderbyte"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.geeksforgeeks.org/user/ketanxos"><img src="https://img.shields.io/badge/GFG-0D1117?logo=geeksforgeeks"/></a>
