@@ -3,20 +3,19 @@
 <br/>
 <div align="center">
   <table align="right"><tr><td>
-    <a href="https://ketanxos.github.io"><img alt="Resume" src="https://img.shields.io/badge/RESUME-007EC6?style=for-the-badge&logo=googledocs&logoColor=ffffff"/></a>
+    <a href="https://ketanxos.github.io"><img alt="Resume" src="https://img.shields.io/badge/RESUME-007EC6?style=for-the-badge&logo=googledocs&logoColor=FFFFFF"/></a>
   </td></tr></table>
   <table align="left"><tr><td>
-    <a href="https://ketanxos.github.io"><img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-007EC6?style=for-the-badge&logo=github&logoColor=ffffff"/></a>
+    <a href="https://ketanxos.github.io"><img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-007EC6?style=for-the-badge&logo=github&logoColor=FFFFFF"/></a>
   </td></tr></table>
   <table align="center"><tr><td>
-    <a href="https://www.linkedin.com/in/ketanxos"><img alt="LinkedIN" src="https://img.shields.io/badge/LINKEDIN-007EC6?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
+    <a href="https://www.linkedin.com/in/ketanxos"><img alt="LinkedIN" src="https://img.shields.io/badge/LINKEDIN-007EC6?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/></a>
   </td></tr></table>
 </div>
 
 ![Profile Card](img/profile-card.webp)
 
 ## &#127760; WEB DEVELOPEMENT
-
 <img height="36px" alt="HTML" src="img/html.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="36px" alt="CSS" src="img/css.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="36px" alt="Javascript" src="img/javascript.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -30,12 +29,10 @@
 <img height="36px" alt="Tailwind" src="img/tailwind.svg"/>
 
 ## &#128241; APP DEVELOPEMENT
-
 <img height="36px" alt="Android Studio" src="img/android-studio.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="36px" alt="Flutter" src="img/flutter.svg"/>
 
 ## &#129504; PROBLEM SOLVING & DSA
-
 <img height="36px" alt="C" src="img/c.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="36px" alt="C++" src="img/c++.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="36px" alt="CSharp" src="img/csharp.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -50,7 +47,6 @@
 <br/>
 
 ## WHERE ELSE AM I?
-
 [![LeetCode](https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode)](https://www.leetcode.com/ketanxos)
 [![Coderbyte](https://img.shields.io/badge/Coderbyte-0D1117?style=for-the-badge&logo=coderbyte)](https://www.coderbyte.com/profile/ketanxos)
 [![CodeAbbey](https://img.shields.io/badge/CodeAbbey-0D1117?style=for-the-badge&logo=codeabbey)](https://www.codeabbey.com/index/user_profile/ketanxos)
@@ -114,6 +110,8 @@
 [![X](https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x)](https://www.x.com/ketanxos)
 [![Snapchat](https://img.shields.io/badge/Snapchat-0D1117?style=for-the-badge&logo=snapchat)](https://www.snapchat.com/ketanxos)
 
+<br/>
+<br/>
 <br/>
 
 <h1 align="center">That's it, what i am... &#129393;</h1>
