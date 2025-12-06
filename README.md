@@ -3,11 +3,11 @@
 <h3 align="center">A passionate Web and Android Developer from India</h3>
 
 <p align="center">
-  <a href="https://www.instagram.com/ketanxos/"><img alt="Instagram" height="32px" src="img/instagram.svg"/></a>
+  <a href="https://www.instagram.com/ketanxos"><img alt="Instagram" height="36px" src="img/instagram.svg"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linked.com/in/ketanxos/"><img alt="LinkedIN" height="32px" src="img/linkedin.svg"/></a>
+  <a href="https://www.linked.com/in/ketanxos"><img alt="LinkedIN" height="36px" src="img/linkedin.svg"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.x.com/ketanxos/"><img alt="X" height="32px" src="img/x.svg"/></a>
+  <a href="https://www.x.com/ketanxos"><img alt="X" height="36px" src="img/x.svg"/></a>
 </p>
 
 <p>&#128301; I'm currently working on <b>'NOWHERE'</b></p>
@@ -57,12 +57,64 @@
 
 <br/>
 
-<h2>OTHER DEV PROFILES</h2>
+<h2>WHERE ELSE AM I?</h2>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-0D1117?logo=leetcode)](https://www.leetcode.com/ketanxos)&nbsp;&nbsp;&nbsp;&nbsp;
-[![CodeChef](https://img.shields.io/badge/CodeChef-0D1117?logo=codechef)](https://www.codechef.com/users/ketanxos)&nbsp;&nbsp;&nbsp;&nbsp;
-[![HackerEarth](https://img.shields.io/badge/HackerEarth-0D1117?logo=hackerearth)](https://www.hackerearth.com/@ketanxos)&nbsp;&nbsp;&nbsp;&nbsp;
-[![HackerRank](https://img.shields.io/badge/HackerRank-0D1117?logo=hackerrank)](https://www.hackerrank.com/ketanxos)&nbsp;&nbsp;&nbsp;&nbsp;
-[![CodersRank](https://img.shields.io/badge/CodersRank-0D1117?logo=codersrank)](https://profile.codersrank.io/user/ketanxos)&nbsp;&nbsp;&nbsp;&nbsp;
-[![Coderbyte](https://img.shields.io/badge/Coderbyte-0D1117?logo=coderbyte)](https://www.coderbyte.com/profile/ketanxos)&nbsp;&nbsp;&nbsp;&nbsp;
-[![GFG](https://img.shields.io/badge/GFG-0D1117?logo=geeksforgeeks)](https://www.geeksforgeeks.org/user/ketanxos)
+[![LeetCode](https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode)](https://www.leetcode.com/ketanxos)
+[![Coderbyte](https://img.shields.io/badge/Coderbyte-0D1117?style=for-the-badge&logo=coderbyte)](https://www.coderbyte.com/profile/ketanxos)
+[![CodeAbbey](https://img.shields.io/badge/CodeAbbey-0D1117?style=for-the-badge&logo=codeabbey)](https://www.codeabbey.com/index/user_profile/ketanxos)
+[![Codeforces](https://img.shields.io/badge/Codeforces-0D1117?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/ketanxos)
+[![CodeChef](https://img.shields.io/badge/CodeChef-0D1117?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/ketanxos)
+[![HackerEarth](https://img.shields.io/badge/HackerEarth-0D1117?style=for-the-badge&logo=hackerearth)](https://www.hackerearth.com/@ketanxos)
+[![HackerRank](https://img.shields.io/badge/HackerRank-0D1117?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/ketanxos)
+[![Codewars](https://img.shields.io/badge/Codewars-0D1117?style=for-the-badge&logo=codewars)](https://www.codewars.com/users/ketanxos)
+[![W3Schools](https://img.shields.io/badge/W3Schools-0D1117?style=for-the-badge&logo=w3schools)](https://www.w3profile.com/ketanxos)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0D1117?style=for-the-badge&logo=geeksforgeeks)](https://www.geeksforgeeks.org/user/ketanxos)
+[![freecodecamp](https://img.shields.io/badge/freecodecamp-0D1117?style=for-the-badge&logo=freecodecamp)](https://www.freecodecamp.org/ketanxos)
+[![Hyperskill](https://img.shields.io/badge/Hyperskill-0D1117?style=for-the-badge&logo=hyperskill)](https://hyperskill.org/my-learning/614186035)
+[![OpenCV](https://img.shields.io/badge/OpenCV-0D1117?style=for-the-badge&logo=opencv)](https://courses.opencv.org/u/ketanxos)
+[![Google for Devs](https://img.shields.io/badge/Google_for_Devs-0D1117?style=for-the-badge&logo=google)](https://g.dev/ketanxos)
+[![Google Skills](https://img.shields.io/badge/Google_Skills-0D1117?style=for-the-badge&logo=googlecloud)](https://www.skills.google/public_profiles/a1e16ebf-50bf-4997-adb2-c8eaeb2ceb6d)
+[![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-0D1117?style=for-the-badge&logo=microsoft)](https://learn.microsoft.com/en-us/users/ketanxos)
+[![Mancer](https://img.shields.io/badge/Mancer-0D1117?style=for-the-badge&logo=mancer)](https://mancer.work/u/ketanxos)
+[![Unity Learn](https://img.shields.io/badge/Unity_Learn-0D1117?style=for-the-badge&logo=unity)](https://learn.unity.com/u/ketanxos)
+[![Gitlab](https://img.shields.io/badge/Gitlab-0D1117?style=for-the-badge&logo=gitlab)](https://gitlab.com/ketanxos)
+[![Gitea](https://img.shields.io/badge/Gitea-0D1117?style=for-the-badge&logo=gitea)](https://gitea.com/ketanxos)
+[![Stackblitz](https://img.shields.io/badge/Stackblitz-0D1117?style=for-the-badge&logo=stackblitz)](https://stackblitz.com/@ketanxos)
+[![CodePen](https://img.shields.io/badge/CodePen-0D1117?style=for-the-badge&logo=codepen)](https://codepen.io/ketanxos)
+[![CodeSandbox](https://img.shields.io/badge/CodeSandbox-0D1117?style=for-the-badge&logo=codesandbox)](https://codesandbox.io/u/ketanxos)
+[![myCompiler](https://img.shields.io/badge/myCompiler-0D1117?style=for-the-badge&logo=mycompiler)](https://www.mycompiler.io/@ketanxos)
+[![Replit](https://img.shields.io/badge/Replit-0D1117?style=for-the-badge&logo=replit)](https://replit.com/@ketanxos)
+[![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma)](https://www.figma.com/@ketanxos)
+[![Accredible](https://img.shields.io/badge/Accredible-0D1117?style=for-the-badge&logo=accredible)](https://www.credential.net/profile/ketanxos/wallet)
+[![Credly](https://img.shields.io/badge/Credly-0D1117?style=for-the-badge&logo=credly)](https://www.credly.com/users/ketanxos)
+[![ORCID](https://img.shields.io/badge/ORCID-0D1117?style=for-the-badge&logo=orcid)](https://orcid.org/0009-0007-3830-6602)
+[![Kaggle](https://img.shields.io/badge/Kaggle-0D1117?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/ketanxos)
+[![Unstop](https://img.shields.io/badge/Unstop-0D1117?style=for-the-badge&logo=mancer)](https://unstop.com/u/ketanxos)
+[![Aspecta](https://img.shields.io/badge/Aspecta-0D1117?style=for-the-badge&logo=aspecta)](https://aspecta.ai/u/ketanxos)
+[![about.me](https://img.shields.io/badge/about.me-0D1117?style=for-the-badge&logo=aboutdotme)](https://about.me/ketanxos)
+[![Behance](https://img.shields.io/badge/Behance-0D1117?style=for-the-badge&logo=behance)](https://www.behance.net/ketanxos)
+[![Devfolio](https://img.shields.io/badge/Devfolio-0D1117?style=for-the-badge&logo=devfolio)](https://devfolio.co/@ketanxos)
+[![Commudle](https://img.shields.io/badge/Commudle-0D1117?style=for-the-badge&logo=commudle)](https://www.commudle.com/users/ketanxos)
+[![Freelancer](https://img.shields.io/badge/Freelancer-0D1117?style=for-the-badge&logo=freelancer)](https://www.freelancer.in/u/ketanxos)
+[![Gumroad](https://img.shields.io/badge/Gumroad-0D1117?style=for-the-badge&logo=gumroad)](https://ketanxos.gumroad.com)
+[![Notion](https://img.shields.io/badge/Notion-0D1117?style=for-the-badge&logo=notion)](https://ketanxos.notion.site)
+[![Google Site](https://img.shields.io/badge/Google_Site-0D1117?style=for-the-badge&logo=google)](https://sites.google.com/view/ketanxos/home)
+[![Blogger](https://img.shields.io/badge/Blogger-0D1117?style=for-the-badge&logo=blogger)](https://ketanxos.blogspot.com)
+[![Code Blog](https://img.shields.io/badge/Code_Blog-0D1117?style=for-the-badge&logo=wordpress)](https://ketanxos.code.blog)
+[![Tech Blog](https://img.shields.io/badge/Tech_Blog-0D1117?style=for-the-badge&logo=wordpress)](https://ketanxos.tech.blog)
+[![Wordpress](https://img.shields.io/badge/Wordpress-0D1117?style=for-the-badge&logo=wordpress)](https://ketanxos.wordpress.com)
+[![hashnode](https://img.shields.io/badge/hashnode-0D1117?style=for-the-badge&logo=hashnode)](https://hashnode.com/@ketanxos)
+[![daily.dev](https://img.shields.io/badge/daily.dev-0D1117?style=for-the-badge&logo=dailydotdev)](https://app.daily.dev/ketanxos)
+[![dev.to](https://img.shields.io/badge/dev.to-0D1117?style=for-the-badge&logo=devdotto)](https://dev.to/ketanxos)
+[![Medium](https://img.shields.io/badge/Medium-0D1117?style=for-the-badge&logo=medium)](https://medium.com/@ketanxos)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-0D1117?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/17894600/ketan-kumar)
+[![Stack Exchange](https://img.shields.io/badge/Stack_Exchange-0D1117?style=for-the-badge&logo=stackexchange)](https://meta.stackexchange.com/users/1357350/ketan-kumar)
+[![Quora](https://img.shields.io/badge/Quora-0D1117?style=for-the-badge&logo=quora)](https://www.quora.com/profile/Ketanxos)
+[![Quora Spaces](https://img.shields.io/badge/Quora_Spaces-0D1117?style=for-the-badge&logo=quora)](https://ketanxos.quora.com)
+[![Reddit](https://img.shields.io/badge/Reddit-0D1117?style=for-the-badge&logo=reddit)](https://www.reddit.com/user/ketanxos)
+[![Reddit Community](https://img.shields.io/badge/Reddit_Community-0D1117?style=for-the-badge&logo=reddit)](https://www.reddit.com/r/ketanxos)
+[![Pinterest](https://img.shields.io/badge/Pinterest-0D1117?style=for-the-badge&logo=pinterest)](https://in.pinterest.com/ketanxos)
+[![Mastodon](https://img.shields.io/badge/Mastodon-0D1117?style=for-the-badge&logo=mastodon)](https://mastodon.social/@ketanxos)
+[![Discord](https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord)](https://discord.com/users/ketanxos)
+[![Facebook](https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=facebook)](https://www.facebook.com/ketanxos)
+[![Snapchat](https://img.shields.io/badge/Snapchat-0D1117?style=for-the-badge&logo=snapchat)](https://www.snapchat.com/ketanxos)
