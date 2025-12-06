@@ -1,21 +1,18 @@
-<h1 align="center">Hii, I'm Ketan... &#128104;&#8205;&#128187;</h1>
+<div align="center">
+  <h1>Hii, I'm Ketan... &#128104;&#8205;&#128187;</h1>
+  <h3>A passionate Web and Android Developer from India</h3>
+  <div>
+    <a href="https://www.instagram.com/ketanxos"><img alt="Instagram" height="36px" src="img/instagram.svg"/></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linked.com/in/ketanxos"><img alt="LinkedIN" height="36px" src="img/linkedin.svg"/></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.x.com/ketanxos"><img alt="X" height="36px" src="img/x.svg"/></a>
+  </div>
+</div>
 
-<h3 align="center">A passionate Web and Android Developer from India</h3>
+<br/>
 
-<p align="center">
-  <a href="https://www.instagram.com/ketanxos"><img alt="Instagram" height="36px" src="img/instagram.svg"/></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linked.com/in/ketanxos"><img alt="LinkedIN" height="36px" src="img/linkedin.svg"/></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.x.com/ketanxos"><img alt="X" height="36px" src="img/x.svg"/></a>
-</p>
-
-<p>&#128301; I'm currently working on <b>'NOWHERE'</b></p>
-<p>&#127793; I'm currently learning <b>Android Studio</b> and <b>Flutter</b></p>
-<p>&#128108; I'm looking to collaborate on <b>Android Projects</b></p>
-<p>&#129309; I'm looking for help with <b>'NOTHING'</b></p>
-<p>&#128193; All of my projects are available <b><code><a href="https://ketanxos.github.io">here</a></code></b></p>
-<p>&#128235; Reach me here: <a href="mailto:ketan.kumar08032002@gmail.com">ketan.kumar08032002@gmail.com</a></p>
+<img aspect-ratio="16/9" alt="Profile Card" src="img/profile-card.webp"/>
 
 <br/>
 
@@ -57,7 +54,7 @@
 
 <br/>
 
-<h2>WHERE ELSE AM I?</h2>
+## WHERE ELSE AM I?
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode)](https://www.leetcode.com/ketanxos)
 [![Coderbyte](https://img.shields.io/badge/Coderbyte-0D1117?style=for-the-badge&logo=coderbyte)](https://www.coderbyte.com/profile/ketanxos)
