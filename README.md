@@ -5,7 +5,7 @@
     <a href="https://ketanxos.github.io"><img alt="Resume" src="https://img.shields.io/badge/RESUME-007EC6?style=for-the-badge&logo=googledocs&logoColor=ffffff"/></a>
   </td></tr></table>
   <table align="left"><tr><td>
-    <a href="https://ketanxos.github.io"><img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-007EC6?style=for-the-badge&logo=github&logoColor=ffffff"/></a>
+    <a href="https://ketanxos.github.io"><img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO25-007EC6?style=for-the-badge&logo=github&logoColor=ffffff"/></a>
   </td></tr></table>
   <table align="center"><tr><td>
     <a href="https://www.linkedin.com/in/ketanxos"><img alt="LinkedIN" src="https://img.shields.io/badge/LINKEDIN-007EC6?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
