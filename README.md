@@ -3,11 +3,7 @@
 <p align="center">
   <a href="https://ketanxos.github.io"><img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-informational?style=flat-square&logo=github&logoColor=ffffff"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/ketanxos"><img alt="Instagram" src="img/instagram.svg"/></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linked.com/in/ketanxos"><img alt="LinkedIN" src="img/linkedin.svg"/></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.x.com/ketanxos"><img alt="X" src="img/x.svg"/></a>
+  <a href="https://www.linkedin.com/in/ketanxos"><img alt="Linkedin" src="https://img.shields.io/badge/LINKEDIN-informational?style=flat-square&logo=linkedin&logoColor=ffffff"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://ketanxos.github.io"><img alt="Resume" src="https://img.shields.io/badge/RESUME-informational?style=flat-square&logo=googledocs&logoColor=ffffff"/></a>
 </p>
@@ -108,4 +104,7 @@
 [![Mastodon](https://img.shields.io/badge/Mastodon-0D1117?style=for-the-badge&logo=mastodon)](https://mastodon.social/@ketanxos)
 [![Discord](https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord)](https://discord.com/users/ketanxos)
 [![Facebook](https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=facebook)](https://www.facebook.com/ketanxos)
+[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram)](https://www.instagram.com/ketanxos)
+[![Threads](https://img.shields.io/badge/Threads-0D1117?style=for-the-badge&logo=threads)](https://www.threads.com/@ketanxos)
+[![X](https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x)](https://www.x.com/ketanxos)
 [![Snapchat](https://img.shields.io/badge/Snapchat-0D1117?style=for-the-badge&logo=snapchat)](https://www.snapchat.com/ketanxos)
