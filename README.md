@@ -1,14 +1,12 @@
-<div align="center">
-  <h1>Hii, I'm Ketan... &#128104;&#8205;&#128187;</h1>
-  <h3>A passionate Web and Android Developer from India</h3>
-  <div>
-    <a href="https://www.instagram.com/ketanxos"><img alt="Instagram" height="36px" src="img/instagram.svg"/></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linked.com/in/ketanxos"><img alt="LinkedIN" height="36px" src="img/linkedin.svg"/></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.x.com/ketanxos"><img alt="X" height="36px" src="img/x.svg"/></a>
-  </div>
-</div>
+<h1 align="center">Hii, I'm Ketan... &#128104;&#8205;&#128187;</h1>
+<h3 align="center">A passionate Web and Android Developer from India</h3>
+<p align="center">
+  <a href="https://www.instagram.com/ketanxos"><img alt="Instagram" height="36px" src="img/instagram.svg"/></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linked.com/in/ketanxos"><img alt="LinkedIN" height="36px" src="img/linkedin.svg"/></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.x.com/ketanxos"><img alt="X" height="36px" src="img/x.svg"/></a>
+</p>
 
 <br/>
 
