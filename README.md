@@ -1,16 +1,20 @@
 <h1 align="center">Hii, I'm Ketan... &#128104;&#8205;&#128187;</h1>
 <h3 align="center">A passionate Web and Android Developer from India</h3>
 <p align="center">
-  <a href="https://www.instagram.com/ketanxos"><img alt="Instagram" height="36px" src="img/instagram.svg"/></a>
+  <a href="https://ketanxos.github.io"><img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-informational?style=flat-square&logo=github&logoColor=ffffff"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linked.com/in/ketanxos"><img alt="LinkedIN" height="36px" src="img/linkedin.svg"/></a>
+  <a href="https://www.instagram.com/ketanxos"><img alt="Instagram" src="img/instagram.svg"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.x.com/ketanxos"><img alt="X" height="36px" src="img/x.svg"/></a>
+  <a href="https://www.linked.com/in/ketanxos"><img alt="LinkedIN" src="img/linkedin.svg"/></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.x.com/ketanxos"><img alt="X" src="img/x.svg"/></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://ketanxos.github.io"><img alt="Resume" src="https://img.shields.io/badge/RESUME-informational?style=flat-square&logo=googledocs&logoColor=ffffff"/></a>
 </p>
 
-<img alt="Profile Card" src="img/profile-card.webp"/>
+![Profile Card](img/profile-card.webp)
 
-<h2>WEB DEVELOPEMENT</h2>
+## WEB DEVELOPEMENT
 
 <img height="36px" alt="HTML" src="img/html.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="36px" alt="CSS" src="img/css.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -24,16 +28,12 @@
 <img height="36px" alt="Bootstrap" src="img/bootstrap.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="36px" alt="Tailwind" src="img/tailwind.svg"/>
 
-<br/>
-
-<h2>ANDROID DEVELOPEMENT</h2>
+## APP DEVELOPEMENT
 
 <img height="36px" alt="Android Studio" src="img/android-studio.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="36px" alt="Flutter" src="img/flutter.svg"/>
 
-<br/>
-
-<h2>LANGUAGES</h2>
+## PROBLEM SOLVING & DSA
 
 <img height="36px" alt="C" src="img/c.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="36px" alt="C++" src="img/c++.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
