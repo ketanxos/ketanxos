@@ -1,16 +1,15 @@
-<h1 align="center">Hii, I'm Ketan... &#128104;&#8205;&#128187;</h1>
-<h3 align="center">A passionate Web and Android Developer from India</h3>
-<p align="center">
-  <a href="https://ketanxos.github.io"><img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-informational?style=flat-square&logo=github&logoColor=ffffff"/></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/ketanxos"><img alt="Linkedin" src="https://img.shields.io/badge/LINKEDIN-informational?style=flat-square&logo=linkedin&logoColor=ffffff"/></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://ketanxos.github.io"><img alt="Resume" src="https://img.shields.io/badge/RESUME-informational?style=flat-square&logo=googledocs&logoColor=ffffff"/></a>
-</p>
+<h1 align="center">&#128640; Hii, I'm Ketan &#128104;&#8205;&#128187;</h1>
+<h3 align="center">A passionate Web and App Developer from India</h3>
+
+<table align="center"><tr>
+  <td><a href="https://ketanxos.github.io"><img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-007EC6?style=flat-square&logo=github&logoColor=ffffff"/></a></td>
+  <td><a href="https://www.linkedin.com/in/ketanxos"><img alt="LinkedIN" src="https://img.shields.io/badge/LINKEDIN-007EC6?style=flat-square&logo=linkedin&logoColor=ffffff"/></a></td>
+  <td><a href="https://ketanxos.github.io"><img alt="Resume" src="https://img.shields.io/badge/RESUME-007EC6?style=flat-square&logo=googledocs&logoColor=ffffff"/></a></td>
+</tr></table>
 
 ![Profile Card](img/profile-card.webp)
 
-## WEB DEVELOPEMENT
+## &#127760; WEB DEVELOPEMENT
 
 <img height="36px" alt="HTML" src="img/html.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="36px" alt="CSS" src="img/css.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -24,12 +23,12 @@
 <img height="36px" alt="Bootstrap" src="img/bootstrap.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="36px" alt="Tailwind" src="img/tailwind.svg"/>
 
-## APP DEVELOPEMENT
+## &#128241; APP DEVELOPEMENT
 
 <img height="36px" alt="Android Studio" src="img/android-studio.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="36px" alt="Flutter" src="img/flutter.svg"/>
 
-## PROBLEM SOLVING & DSA
+## &#129504; PROBLEM SOLVING & DSA
 
 <img height="36px" alt="C" src="img/c.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="36px" alt="C++" src="img/c++.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -108,3 +107,7 @@
 [![Threads](https://img.shields.io/badge/Threads-0D1117?style=for-the-badge&logo=threads)](https://www.threads.com/@ketanxos)
 [![X](https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x)](https://www.x.com/ketanxos)
 [![Snapchat](https://img.shields.io/badge/Snapchat-0D1117?style=for-the-badge&logo=snapchat)](https://www.snapchat.com/ketanxos)
+
+<br/>
+
+<h1 align="center">That's it, who i am... &#129393;</h1>
