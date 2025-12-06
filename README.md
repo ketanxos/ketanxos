@@ -8,11 +8,7 @@
   <a href="https://www.x.com/ketanxos"><img alt="X" height="36px" src="img/x.svg"/></a>
 </p>
 
-<br/>
-
-<img aspect-ratio="16/9" alt="Profile Card" src="img/profile-card.webp"/>
-
-<br/>
+<img alt="Profile Card" src="img/profile-card.webp"/>
 
 <h2>WEB DEVELOPEMENT</h2>
 
