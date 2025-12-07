@@ -16,22 +16,22 @@
 
 [![Small Town Boy](img/small-town-boy.webp)](#)
 
-## &#127760; WEB DEVELOPEMENT
+## &#127760; WEB DEVELOPMENT
 
-[![Web Developement](https://skillicons.dev/icons?i=html,css,js,nodejs,react,tailwind,bootstrap,angular,jquery,mongodb,php)](#)
+[![Web Development](https://skillicons.dev/icons?i=html,css,js,nodejs,react,tailwind,typescript,bootstrap,angular,jquery,mongodb,php)](#)
 
-## &#128241; APP DEVELOPEMENT
+## &#128241; APP DEVELOPMENT
 
-[![App Developement](https://skillicons.dev/icons?i=androidstudio,flutter,dart)](#)
+[![App Development](https://skillicons.dev/icons?i=androidstudio,flutter,dart)](#)
 
 ## &#129504; PROBLEM SOLVING & DSA
 
-[![App Developement](https://skillicons.dev/icons?i=c,cpp,cs,java,kotlin,python,swift,ruby,r,rust)](#)
+[![Problem Solving & DSA](https://skillicons.dev/icons?i=c,cpp,cs,java,kotlin,python,swift,ruby,r,rust)](#)
 
 <br/>
 
 <details>
-  <summary><h2>WHERE ELSE AM I?</h2></summary>
+  <summary><h2>&nbsp;WHERE ELSE AM I?</h2></summary>
     
   [![LeetCode](https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode)](https://www.leetcode.com/ketanxos)
   [![Coderbyte](https://img.shields.io/badge/Coderbyte-0D1117?style=for-the-badge&logo=coderbyte)](https://www.coderbyte.com/profile/ketanxos)
@@ -98,4 +98,4 @@
 </details>
 <br/>
 <hr/>
-<h1 align="center">That's it, what i am... &#129393;<br/><br/></h1>
+<h1 align="center">That's it, of me... &#129393;<br/><br/></h1>
