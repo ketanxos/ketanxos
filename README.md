@@ -18,11 +18,11 @@
 
 ## &#127760; WEB DEVELOPMENT
 
-[![Web Development](https://skillicons.dev/icons?i=html,css,js,nodejs,react,tailwind,typescript,bootstrap,angular,jquery,mongodb,php)](#)
+[![Web Development](https://skillicons.dev/icons?i=html,css,md,js,nodejs,typescript,react,tailwind,bootstrap,materialui,angular,nextjs)](#)
 
 ## &#128241; APP DEVELOPMENT
 
-[![App Development](https://skillicons.dev/icons?i=androidstudio,flutter,dart)](#)
+[![App Development](https://skillicons.dev/icons?i=androidstudio,flutter,dart,gradle,maven)](#)
 
 ## &#129504; PROBLEM SOLVING & DSA
 
