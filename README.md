@@ -1,10 +1,8 @@
 <h1 align="center">&#128640; Hii, I'm Ketan &#128104;&#8205;&#128187;</h1>
 <h3 align="center">A passionate Web and App Developer from India</h3>
-
 <br/>
-
 <table align="right"><tr><td>
-  
+
   [![RESUME](https://img.shields.io/badge/RESUME-007EC6?style=for-the-badge&logo=googledocs&logoColor=FFFFFF)](https://ketanxos.github.io)
 </td></tr></table>
 <table align="left"><tr><td>
@@ -16,7 +14,7 @@
   [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-007EC6?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/ketanxos)
 </td></tr></table>
 
-[![Profile Card](img/profile-card.webp)](#)
+[![Small Town Boy](img/small-town-boy.webp)](#)
 
 ## &#127760; WEB DEVELOPEMENT
 
@@ -98,7 +96,6 @@
   [![X](https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x)](https://www.x.com/ketanxos)
   [![Snapchat](https://img.shields.io/badge/Snapchat-0D1117?style=for-the-badge&logo=snapchat)](https://www.snapchat.com/ketanxos)
 </details>
-
 <br/>
-
-<h1 align="center">That's it, what i am... &#129393;</h1>
+<hr/>
+<h1 align="center">That's it, what i am... &#129393;<br/><br/></h1>
