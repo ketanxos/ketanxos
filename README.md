@@ -1,32 +1,32 @@
 <h1 align="center">&#128640; Hii, I'm Ketan &#128104;&#8205;&#128187;</h1>
 <h3 align="center">A passionate Web and App Developer from India</h3>
 <br/>
-<table align="right"><tr><td>
+<a href="https://docs.google.com/document/d/1-svRihS-i5bCoGMAYu30OCnUayWVVqfy-mAycsXI-Es" target="_blank"><table align="right"><tr><td>
 
-  [![RESUME](https://img.shields.io/badge/RESUME-007EC6?style=for-the-badge&logo=googledocs&logoColor=FFFFFF)](https://ketanxos.github.io)
+  [![RESUME](https://img.shields.io/badge/RESUME-007EC6?style=for-the-badge&logo=googledocs&logoColor=FFFFFF)](#)
+</td></tr></table></a>
+<a href="https://ketanxos.github.io" target="_blank"><table align="left"><tr><td>
+
+  [![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-007EC6?style=for-the-badge&logo=github&logoColor=FFFFFF)](#)
 </td></tr></table>
-<table align="left"><tr><td>
+<a href="https://www.linkedin.com/in/ketanxos" target="_blank"><table align="center"><tr><td>
 
-  [![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-007EC6?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://ketanxos.github.io)
-</td></tr></table>
-<table align="center"><tr><td>
-
-  [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-007EC6?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/ketanxos)
+  [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-007EC6?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](#)
 </td></tr></table>
 
 [![Small Town Boy](img/small-town-boy.webp)](#)
 
 ## &#127760; WEB DEVELOPMENT
 
-[![Web Development](https://skillicons.dev/icons?i=html,css,md,js,nodejs,typescript,react,tailwind,bootstrap,materialui,angular,nextjs)](#)
+[![Web Development](https://skillicons.dev/icons?i=html,css,js,nodejs,react,tailwind,typescript,vue,angular,nextjs,jquery,php)](#)
 
 ## &#128241; APP DEVELOPMENT
 
-[![App Development](https://skillicons.dev/icons?i=androidstudio,flutter,dart,gradle,maven)](#)
+[![App Development](https://skillicons.dev/icons?i=androidstudio,flutter,dart,firebase,gradle,maven)](#)
 
 ## &#129504; PROBLEM SOLVING & DSA
 
-[![Problem Solving & DSA](https://skillicons.dev/icons?i=c,cpp,cs,java,kotlin,python,swift,ruby,r,rust)](#)
+[![Problem Solving & DSA](https://skillicons.dev/icons?i=c,cpp,java,kotlin,python,swift,r)](#)
 
 <br/>
 
