@@ -1,18 +1,18 @@
-<h1 align="center">&#128640; Hii, I'm Ketan &#128104;&#8205;&#128187;</h1>
+<h1 align="center">Hii, I'm Ketan &#128104;&#8205;&#128187;</h1>
 <h3 align="center">A passionate Web and App Developer from India</h3>
 <br/>
 <a href="https://docs.google.com/document/d/1-svRihS-i5bCoGMAYu30OCnUayWVVqfy-mAycsXI-Es" target="_blank"><table align="right"><tr><td>
-
+  
   [![RESUME](https://img.shields.io/badge/RESUME-007EC6?style=for-the-badge&logo=googledocs&logoColor=FFFFFF)](#)
 </td></tr></table></a>
 <a href="https://ketanxos.github.io" target="_blank"><table align="left"><tr><td>
-
+  
   [![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-007EC6?style=for-the-badge&logo=github&logoColor=FFFFFF)](#)
-</td></tr></table>
+</td></tr></table></a>
 <a href="https://www.linkedin.com/in/ketanxos" target="_blank"><table align="center"><tr><td>
 
   [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-007EC6?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](#)
-</td></tr></table>
+</td></tr></table></a>
 
 [![Small Town Boy](img/small-town-boy.webp)](#)
 
